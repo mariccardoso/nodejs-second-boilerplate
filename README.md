@@ -1,4 +1,4 @@
-# Node.js First Boilerplate
+# Node.js Second Boilerplate
 
 Este é um projeto de boilerplate para um servidor básico em Node.js.
 
